@@ -1,11 +1,11 @@
-すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
-つうしんが　きれました\xfffeせきがいせんを　あわせてください
-もどる
-タッチ　スタート
-リズムチェック
+Toque na tela 10 vezes\xfffeno ritmo que quiser.
+Checagem completa. Criar conexão Infravermelho\xfffecom outro treinador.
+Checando...\xfffepor favor mantenha a conexão Infravermelho.
+Você criou uma conexão Infravermelho!
+A conexão foi interrompida.\xfffePor favor realinhe seus cartuchos infravermelhos.
+Voltar
+Aperte Start
+CHECANDO RITMO
 no data
 no data
 no data
