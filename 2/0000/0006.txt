@@ -1,5 +1,5 @@
 USAR
-JOGAR FORA
+LIXO
 REGISTRAR
 DAR
 VER
@@ -31,18 +31,18 @@ No.
 ＋
 →
 ID No.
-　
+
 Cursor
 Volte!
-O que agora?
+E Agora?
 Dar
 \xf000Ȃ\x0001\x0000
 ×
 Beber
 \xf000ȃ\x0001\x0000まい
 Fechar
-\xf000ĉ\x0001\x0000 está selecionado.
-Não pode escrever\xfffcarta aqui！
+\xf000ĉ\x0001\x0000 foi selecionado.
+Você não pode escrever\xfffemail aqui！
 Não há Pokémon!
 Mover \xf000ĉ\x0001\x0000.
 Você não pode dar \xf000ĉ\x0001\x0000 pra eles.
@@ -53,36 +53,36 @@ Você não pode guardar mais!
 Este é um item importante\xfffeentão não pode jogá-lo fora！
 Jogar fora quantos\xfffe\xf000ĉ\x0001\x0000?
 Jogou fora \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
-Tudo bem em jogar fora\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
-Professora Juniper lembra...\xfffe\xf000Ā\x0001\x0000! Tem tempo e\xf000븀\x0000\xfffelugar pra tudo! Mas não agora.
-Não pode descer da bicicleta agora.
-Professora Juniper lembra...\xfffe\xf000Ā\x0001\x0000! Tem tempo e\xf000븀\x0000\xfffelugar pra tudo! Mas não agora.
-Suas Moedas: \xf000Ȅ\x0001\x0000
-Pegou um TM.
-Pegou um HM.
-Ele contém\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeEnsinar \xf000ć\x0001\x0000\xfffepara um Pokémon?
-\xf000Ā\x0001\x0000 usou a\xfffe\xf000ĉ\x0001\x0001.
-Já que o repelente ainda está ativo,\xfffenão pode usar isto agora.
-\xf000Ā\x0001\x0000 usou a\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokémons selvagens serão atraídos!
-\xf000Ā\x0001\x0000 usou a\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokémons selvagens serão repelidos!
+Tudo bem jogar fora\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Juniper disse...\xfffe\xf000Ā\x0001\x0000! \xf000븀\x0000\xfffeHá um tempo e lugar pra tudo! Mas não agora.
+Você não pode sair da bicicleta aqui.
+Juniper disse...\xfffe\xf000Ā\x0001\x0000! \xf000븀\x0000\xfffeHá um tempo e lugar pra tudo! Mas não agora.
+Suas moedas: \xf000Ȅ\x0001\x0000
+Iniciou um TM.
+Iniciou um HM.
+Contém \xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeEnsinar \xf000ć\x0001\x0000\xfffeto a um Pokémon?
+\xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001.
+Como ainda há efeito do repel,\xfffevoê não pode usar isso agora.
+\xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokemon selvagens serão atraídos!
+\xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokemon selvagens serão repelidos!
 A box está cheia!
 Pós: \xf000ȃ\x0001\x0000
 \xf000봂\x0000No. \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000Escondido \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-Pó de Cerejeira
-Tocou a Pokéflauta!\xfffeUau! Que som incrível!
-Tocou a Pokéflauta!
+\xf000봂\x0000Hidden \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+Pó de Berries
+Tocou a Poke Flauta!\xfffeWow! Que som ótimo!
+Tocou a Poke Flauta!
 O Pokémon ouviu a\xfffeflauta e acordou.
 Mover
-\xf000ĉ\x0001\x0000? Oh, não.\xfffeNão posso comprar isto.
+\xf000ĉ\x0001\x0000? Ah, não.\xfffeEu não posso comprar isso.
 \xf000ĉ\x0001\x0000? \xfffeQuantos você irá vender?
-Posso pagar R$\xf000Ȇ\x0001\x0000.\xfffeEstá tudo bem?
-Entregou \xf000ĉ\x0001\x0000\xfffee recebeu R$\xf000Ȇ\x0001\x0001.
+Eu posso pagar　¥\xf000Ȇ\x0001\x0000.\xfffeTudo bem?
+Entregou\xf000ĉ\x0001\x0000\xfffee recebeu ¥\xf000Ȇ\x0001\x0001.
 Dinheiro
-R$\xf000Ȇ\x0001\x0000
+$\xf000Ȇ\x0001\x0000
 x\xf000ȁ\x0001\x0000
-+R$\xf000Ȇ\x0001\x0000
++$\xf000Ȇ\x0001\x0000
 Sim
 Não
 Vender
@@ -101,32 +101,32 @@ Enterrar
 Abrir
 Battle Points salvos:\xfffe\xf000ȃ\x0001\x0000 BP
 TIPO
-Um item chave pode ser registrado\xfffepara este botão para rápido uso.
-Pode apenas registrar 2 itens\xfffeaos botões!
-Ligou \xfffeos sons de GB!
-Desligou\xfffeos sons de GB!
-Não pode usar \xf000ĉ\x0001\x0000.
-Espiou a mochila de tesouros!
-Pegou \xf000ĉ\x0001\x0000!
-Guardar \xf000ĉ\x0001\x0000\xfffe em \xf000ĉ\x0001\x0001.
-Você pegou tudo!
-Não havia nada dentro...
-Entretanto, você não pode\xffferetirar...
-Bateria fraca!\xfffePor favor aguarde \xf000븀\x0000\xf000ȁ\x0001\x0000 alguns passos até\xfffeque esteja carregada!
-O gramado\xfffeestava quieto...
+Um Key Item na bolsa pode ser marcado\xfffeà este botão para uso instantâneo.
+Você só pode marcar dois itens \xfffeao botão!
+Ligou \xfffeSons de GB!
+Desligou \xfffeSons deGB!
+Não pode usar o \xf000ĉ\x0001\x0000.
+Espiou a bolsa de tesouros!
+Tirou \xf000ĉ\x0001\x0000!
+Descartou \xf000ĉ\x0001\x0000\xfffe na \xf000ĉ\x0001\x0001.
+Você tirou tudo!
+Não tem nada dentro...
+Entretanto, você não pode\xfffretirar...
+Bateria baixa!\xfffeAguarde \xf000븀\x0000\xf000ȁ\x0001\x0000 passos até\xfffecarregar!
+Os campos de grama\xfffeestavam quietos...
 Poffins:
 \xf000Ȃ\x0001\x0000／100
-Por favor pegue um pó\xfffepara cozinhar!
-Não pode ser usado quando há alguém\xfffecom você!
-Não pode fazer isto agora!
-Bolso de Itens\xfffePara itens que serão importantes na sua\xfffeaventura.
-Bolso de Remédios\xfffePara itens de recuperação de HP e PP\xfffedo seu Pokémon.
-Bolso de Pokébolas\xfffePara todos os diferentes tipos de Pokébolas.
-Bolso de TMs e HMs\xfffePra todos os tipos de TMs e HMs.
-Bolso de Berries\xfffePara guardar as diferentes\xfffeBerries.
-Bolso de Cartas\xfffePara guardar as vibrantes\xfffecartas.
-Bolso de Itens de Batalha\xfffePara guardar itens utéis a batalha.
-Bolso de Itens Chave\xfffePara guardar itens indispensáveis a\xfffesua aventura.
+Escolha um pó\xfffepara cozinhar!
+Não pode ser usado quando tem alguém\xfffecom você!
+Você não pode fazer isso agora!
+Bolso de Itens\xfffePara itens que serão úteis durante sua\xfffeaventura.
+Bolso de Medicina\xfffePara itens que recuperarão HP e PP do seu\xfffePokémon.
+Bolso de Pokebolas\xfffePara todos os tipos diferentes de Pokebolas.
+Bolso de TMs e HMs\xfffePara todos os tipos de TMs e HMs.
+Bolso de Berry\xfffePara misturar e guardar diferentes\xfffeBerries.
+Bolso do Correio\xfffePara guardar vibrantes\xfffecartas.
+Bolso de Itens de Batalha\xfffePara itens úteis durante a batalha.
+Bolso de Itens Chave\xfffePara itens indispensáveis à\xfffeaventura.
 Parar
 \xf000ĉ\x0001\x0000
 x\xf000Ȃ\x0001\x0000
@@ -134,28 +134,28 @@ SIM
 NÃO
 \xf000봂\x0000\xf000ĉ\x0001\x0000
 Está vazio.
-Você usou uma Pedra Negra\xfffemas nada aconteceu...
-Você usou uma Pedra da Luz\xfffemas nada aconteceu...
-Seus itens foram\xfffeorganizados!
+Você usou a Pedra Negra\xfffemas nada aconteceu...
+VocÊ usou a Pedra da Luz\xfffemas nada aconteeu...
+Seus itens foram reorganizados!
 \xf000Ē\x0001\x0000
-Seus itens foram\xfffeorganizados pelo tipo!
-Seus itens foram\xfffeorganizados pelo nome!
-Seus itens foram\xfffeorganizados em ordem decrescente.
-Seus itens foram\xfffeorganizados em ordem crescente.
+Seus itens foram\xfffereorganizados por tipo!
+Seus itens foram\xfffereorganizados por nome!
+Seus itens foram\xfffereorganizados em ordem decrescente.
+Seus itens foram\xfffereorganizados em ordem crescente.
 Total
-Mover para Armazenamento
-Mover de Volta
-Por favor selecione\xfffeo que está procurando!
+Mover para armazenagem
+Afaste-se
+Por favor selecione\xfffeque você procura!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001 foi encontrado!
 \xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 foi movido!
-\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 Retornou!
-Como gostaria de organizar?
-Pelo Tipo
-Pelo Nome
-Maior para o menor
-Menor para o maior
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 foi devolvido!
+Como você quer organizar?
+Por tipo
+Por nome
+Mais pra menos
+Menos pra mais
 Ordem numérica
-\xfffe\xf000Ȃ\x0001\x0001 suas coisas foram encontradas!
+\xfffe\xf000Ȃ\x0001\x0001 pertences encontrados!
 Seus itens foram\xfffe organizados em ordem numérica.
 Não encontrado
-Colocar de volta
+Descarte
