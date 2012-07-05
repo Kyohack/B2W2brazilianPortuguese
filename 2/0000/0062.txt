@@ -1,47 +1,47 @@
-たいせん
-こうかん
-もどる
-ふたりで　たいせん
-４にんで　たいせん
-シングルバトル
-ダブルバトル
-トリプルバトル
-たいせん　あいてと\xfffeせきがいせんつうしんを　してください
-パートナーとなる　あいてと\xfffeせきがいせんつうしんを　してください
-リーダーに　なりました！
-たいせん　あいての　リーダーと\xfffeせきがいせんつうしんを　してください
-しばらく　おまちください
-ともだちコード
-フィーリング\xfffeチェック
-ちゅうだんしますか？
-こうかんする　あいてと\xfffeせきがいせんつうしんを　してください
-ポケモンこうかん
-てもち
-こうかんしますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんを　かいしします\xfffeしばらく　おまちください
-たいせんを　かいしします\xfffeしばらく　おまちください
-ローテーションバトル
-ともだちコードの　こうかん　あいてと\xfffeせきがいせんつうしんを　してください
-ともだちリストが　いっぱいです\xfffeともだちを　とうろく　できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-けってい
-この　にんずうで　よろしいですか？
-さんかする　メンバー　ぜんいんと\xfffeせきがいせんつうしんを　してください
-えんもくを　きめた　リーダーと\xfffeせきがいせんつうしんを　してください
-\xf000Ȁ\x0001\x0000にんと　つうしんちゅう\xfffe　けっていで　すすむ
-バトルボックスで　たたかう
-てもちで　たたかう
-ともだちリストに\xfffeとうろく　しました！
-ともだちリストを\xfffeこうしん　しました！
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-いっしょに　あそぶ　ともだちと\xfffeせきがいせんつうしんを　してください
+BATALHAR
+TROCAR
+SAIR
+BATALHAS PARA DOIS
+BATALHAS PARA QUATRO
+BATALHA SIMPLES
+BATALHA EM DUPLA
+BATALHA EM TRIO
+Fazer uma conexão Infravermelho\xfffecom seu(s) oponente(s).
+Fazer uma conexão Infravermelho\xfffecom seu parceiro.
+Tornou-se o líder.
+Fazer uma conexão Infravermelho\xfffecom o líder do seu oponente.
+Por favor aguarde um momento.
+FRIEND CODE
+CHECANDO\xfffeÂNIMOS
+Vai mesmo sair?
+Fazer uma conexão Infravermelho\xfffecom seu parceiro de troca.
+Trocar Pokémon
+Item Segurado
+Vai mesmo trocar?
+Lv. \xf000Ȃ\x0001\x0000
+Fechar a conexão?
+Trocado.
+Por favor aguarde um momento.
+Você e seu(s) amigo(s) não escolheram\xfffea mesma coisa. Retornando ao menu anterior.
+Gostaria de salvar o jogo?
+SIM
+NÃO
+Salvando...\xfffePor favor não desligue o console.
+A troca será iniciada...\xfffePor favor aguarde um momento.
+A batalha irá começar...\xfffePor favor aguarde um momento.
+BATALHA ROTATIVA
+Por favor faça uma conexão Infravermelho\xfffecom um amigo para trocar Friend Codes.
+Seu espaço de amigos está cheio.\xfffeVocê não pode registrar um novo amigo.
+\xf000봂\x0000Amigos Registrados\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+CONFIRMAR
+O número de participantes está certo?
+Por favor faça uma conexão Infravermelho\xfffecom todos os participantes.
+Faça uma conexão Infravermelho\xfffecom o líder que decidiu o evento.
+Comunicando com... \xf000Ȁ\x0001\x0000 pessoas.\xfffeCONFIRMAR: Avançar
+BATALHAR USANDO SEU BOX DE BATALHA
+BATALHAR USANDO SUA EQUIPE
+Seu amigo foi registrado\xfffeno espaço de amigos!
+O espaço de amigos foi atualizado!
+Você precisa de ao menos dois Pokémon\xfffese quiser fazer uma troca!
+Já tem um jogo salvo.\xfffeÉ impossível salvar.\xf000븁\x0000\xfffePor favor refira ao manual\xfffepara detalhes.\xf000븁\x0000\xfffeAperte os botões CIMA + SELECT + B na\xfffetela de início se quiser apagar\xf000븀\x0000\xfffeo jogo salvo atual.
+Por favor faça uma conexão Infravermelho\xfffecom o amigo que você quer jogar.
