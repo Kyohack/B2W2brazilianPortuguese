@@ -1,33 +1,33 @@
-「ＩＲ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「すれちがいログ」について
-「すれちがいログ」について
-「ちょうさレーダー」について
-「ちょうさレーダー」について
-「カスタム」について
-「オン／オフ」について
-「オン／オフ」について
-せきがいせんを　つかって\xfffeめのまえにいる　ともだちと　きがるに\xfffeたいせんや　こうかんが　できます。\xfffeまた　あいしょうが　わかる\xfffeフィーリングチェックや\xfffeともだちコードの　こうかんも　できます。
-ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xfffeレポートを　おくることが　できます。
-Ｗｉ－Ｆｉの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeＷｉ－Ｆｉに　せつぞく　できません。
-ワイヤレスつうしんを　つかって\xfffeちかくにいる　ともだちと\xfffeつぎの　あそびが　できます。\xfffe・ライブキャスター\xfffe・ハイリンク
-ライブキャスターは\xfffeＣギアで　ともだちコードを\xfffeこうかんしたり　Ｗｉ－Ｆｉクラブで\xfffeいっしょに　あそんだことの　ある\xfffeともだちと　ライブキャスターを\xfffeつかって　あそべます。
-ハイリンクは　ボタンを　タッチすれば\xfffeいっしゅんで　ハイリンクに　いけます。
-じぶんの　まわりで　げんざい\xfffeユニオンルームに　はいっている\xfffeにんずうが　わかります。\xfffeまた　ちかくで　ワイヤレスの\xfffeはいしんを　おこなっているかも\xfffeわかります。
-それと　Ｃギアの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
-すれちがった　ひとが\xfffeどんなことを　しているのかが\xfffeリアルタイムで　ひょうじされます。\xfffeタッチすることで　あいてについて\xfffeくわしく　みたり\xfffeじゆうに　はつげん　できます。
-また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
-すれちがった　ひとの\xfffeこのみや　しゅみを　ちょうさできます。\xfffeちょうさしたい　ないようを　きめれば\xfffeきょう　すれちがった　ひとの　データ\xfffeいままでに　すれちがった　ひとの\xfffeデータを　みることが　できます。
-すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
-カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
-でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
-のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-つぎへ
-もどる
-まえへ
+Sobre o "infravermelho"
+Sobre o "Wi-fi"
+Sobre o "Wi-fi"
+Sobre o "Wireless"
+Sobre o "Wireless"
+Sobre o "Wireless"
+Sobre o "Wireless"
+Sobre o "Wireless"
+Sobre o "Tag Log"
+Sobre o "Tag Log"
+Sobre o "Radar de Pesquisa"
+Sobre o "Radar de Pesquisa"
+Sobre a "Customização"
+Sobre o "Ligado/Desligado"
+Sobre o "Ligado/Desligado"
+Usando infravermelho, você pode batalhar e trocar\xfffecom um amigo a sua frente.\xfffeVocê também pode usar o Checador de Emoções para\xfffedizer o quanto você e seu amigo \xfffesão compatíveis, e trocar Friend Codes.
+Apertando o botão de Game Sync,\xfffevocê pode selecionar um Pokémon para dormir\xfffee então mandar seus dados salvos pela\xfffeNintendo Wi-Fi Connection.
+Você não pode conectar na Nintendo Wi-Fi\xfffeConexão sem as corretas\xfffeconfigurações no sistema, mesmo que você seja\xfffecapaz de receber sinal para a \xfffeNintendo Wi-Fi Connection.
+Comunicações pela rede DS Wi-Fi\xfffepermitem você usar as funções abaixo\xfffecom seus amigos próximos.\xfffe-Xtransceiver\xfffe-Entralink
+O Xtransceiver permite a você conectar\xfffecom seus amigos que tenham jogado no\xfffeWi-Fi Club ou com aqueles que você trocou\xfffeFriend Codes usando o C-Gear.
+Aperte o botão e você será\xfffetransferido ao Entralink em um instante.
+Você pode dizer quantas pessoas podem\xfffeestar junto a você no Union Room\xfffese distribuições Wi-Fi\xfffeestão disponíveis no local.
+Você também pode dizer quem tem\xfffeo C-Gear ligado próximo a você.\xfffeQuando há pessoas próximas,\xfffeserá mais fácil receber sinais para\xfffeo Tag Log e o Survey Radar.
+Ele mostra o que pessoas\xfffepróximas a você estão fazendo em tempo real.\xfffeSelecionando você pode descobrir\xfffemais sobre elas e mandar\xfffemensagens para elas.
+Também,　quando em FES MISSION,\xfffeas letras de\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　irão\xfffeflutuar da esquerda para a direita.\xfffeVocê pode participar em\xfffeFES MISSION do seu Street-Pass.
+Você pode fazer enquetes com pessoas\xfffeao seu redor.\xfffe\xfffeEscolha o que deseja descobrir,\xfffee você pode ver os resultados diariamente,\xfffecomo também os resultados totais.
+A luz irá piscar uma vez\xfffeenquanto o Street-Pass faz a checagem\xfffee completa.\xfffeReporte ao capitão do\xfffecentro de pesqueisas de Castelia.
+Toque o ícone de customização, e ele irá\xfffecomeçar a piscar. Toque outros botões uma vez que ele\xfffepisca, e então eles aparecerão diferentes.\xfffe\xfffeVocê pode também fazer combinações com botões\xfffede diferentes cores.
+Toque este botão para desligar ou ligar\xfffeas comunicações pela wireless.\xfffe\xfffeUma vez deligado, o painel  de toque\xfffefica escuro, e as comunicações wireless\xfffeserão desligadas.
+Se a bateria do Ds está fraca\xfffeo C-Gear irá automaticamente\xfffedesligar quando o\xfffeé fechado.\xfffeIsto salva bateria.
+PRÓXIMO
+SAIR
+ANTERIOR
