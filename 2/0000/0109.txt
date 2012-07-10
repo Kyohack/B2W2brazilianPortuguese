@@ -1,154 +1,154 @@
 －－－－－－－－－－
-なぞのばしょ
-とおいばしょ
-\xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-カノコタウン
-カラクサタウン
-サンヨウシティ
-シッポウシティ
-ヒウンシティ
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-１ばんどうろ
-２ばんどうろ
-３ばんどうろ
-４ばんどうろ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１０ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-１７ばんすいどう
-１８ばんどうろ
-ゆめのあとち
-ヤグルマのもり
-リゾートデザート
-こだいのしろ
-ＰＷＴ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-チャンピオンロード
-カゴメタウン
-サザナミタウン
-カナワタウン
-ポケモンリーグ
-Ｎのしろ
-ロイヤルイッシュごう
-ギアステーション
-バトルサブウェイ
-ミュージカルホール
-ブラックシティ
-ホワイトフォレスト
-ユナイテッドタワー
-ちかすいみゃくのあな
-フキヨセのほらあな
-しさくのはら
-タワーオブヘブン
-セッカのしつげん
-ショッピングモール
-しゅぎょうのいわや
-シフトファクトリー
-ジャイアントホール
-リバティガーデンとう
-Ｐ２ラボ
-スカイアローブリッジ
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-ハイリンク
-ほうじょうのやしろ
-サザナミわん
-まよいのもり
-しれんのむろ
-しるべのま
-ハイリンクのもり
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-カノコタウン
-ホワイトフォレスト
-ブラックシティ
-れいとうコンテナ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-ジャイアントホール
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-カゴメタウン
-サザナミタウン
-カラクサゲート
-サザナミゲート
-シッポウゲート
-ヒウンゲート
-ライモンゲート
-ソウリュウゲート
-ブラックゲート
-ホワイトゲート
-ブリッジゲート
-ロードゲート
-かいていいせき
-ヒオウギシティ
-タチワキシティ
-セイガイハシティ
-ポケウッド
-ジョインアベニュー
-サンギタウン
-ヤマジタウン
-１９ばんどうろ
-２０ばんどうろ
-２１ばんすいどう
-２２ばんどうろ
-２３ばんどうろ
-ヒウンげすいどう
-サンギぼくじょう
-タチワキコンビナート
-リバースマウンテン
-ストレンジャーハウス
-チャンピオンロード
-プラズマフリゲート
-こだいのぬけみち
-ヤーコンロード
+Zona Misteriosa
+Lugar Distante
+\xf000Ā\x0001\x0000's \xf000ą\x0001\x0001
+Vila de Nuvema
+Vila Accumula
+Cidade Striaton
+Cidade Nacrene
+Cidade Castelia
+Cidade Nimbasa
+Cidade Driftveil
+Cidade Mistralton
+Cidade Icirrus
+Cidade Opelucid
+Rota 1
+Rota 2
+Rota 3
+Rota 4
+Rota 5
+Rota 6
+Rota 7
+Rota 8
+Rota 9
+Rota 10
+Rota 11
+Rota 12
+Rota 13
+Rota 14
+Rota 15
+Rota 16
+Rota 17
+Rota 18
+Dreamyard
+Floresta Pinwheel
+Desert Resort
+Castelo Relíquia
+PWT
+Caverna Chargestone
+Montanha Twist
+Torre Dragonspiral
+Estrada da Vitória
+Vila Lacunosa
+Vila de Undella
+Vila Anville
+Liga Pokémon
+Castelo de N
+Royal Unova
+Gear Station
+Batalha do Metrô
+Teatro Musical
+Cidade Black
+Floresta White
+Torre Unity
+Caverna Wellspring
+Caverna de Mistralton
+Campo de Ruminação
+Torre Celestial
+Alagadiço de Icirrus
+Shopping Mall Nine
+Caverna do Desafiante
+Poké Transfer Lab
+Abismo Gigante
+Jardim da Liberdade
+P2 Laboratório
+Ponte Skyarrow
+Ponte Levadica Driftveil
+Ponte Tubeline
+Ponte Village
+Ponte Marvelous
+Entralink
+Santuário Abundante
+Baía de Undella
+Floresta Lostlorn
+Câmara do Julgamento
+Câmara da Orientação
+Floresta Entree
+Cidade Nimbasa
+Cidade Driftveil
+Cidade Mistralton
+Cidade Icirrus
+Cidade Opelucid
+Vila Nuvema
+Floresta White
+Cidade Black
+Câmara Frigorífica
+Caverna Chargestone
+Montanha Twist
+Torre Dragonspiral
+Abismo Gigante
+Ponte Levadiça Driftveil
+Ponte Tubeline
+Ponte Village
+Ponte Marvelous
+Rota 5
+Rota 6
+Rota 7
+Rota 8
+Rota 9
+Rota 11
+Rota 12
+Rota 13
+Rota 14
+Rota 15
+Rota 16
+Vila Lacunosa
+Vila Undella
+Accumula Gate
+Undella Gate
+Nacrene Gate
+Castelia Gate
+Nimbasa Gate
+Opelucid Gate
+Black Gate
+White Gate
+Bridge Gate
+Route Gate
+Ruínas Abissais
+Cidade Aspertia
+Cidade Virbank
+Cidade Seigaiha
+PokéStar Studios
+Join Avenue
+Vila Sangi
+Vila Yamaji
+Rota 19
+Rota 20
+Rota 21
+Rota 22
+Rota 23
+Esgoto de Castelia
+Rancho Sangi
+Complexo Virbank
+Montanha Renascer
+Casa Estranha
+Estrada da Vitória
+Fragata Plasma
+Caminho Antigo
+Estrada Clay
 －－－－－－－－－－
-しろのじゅどう
-くろのまてんろう
-うみべのどうけつ
-こころのくうどう
-かくしあな
-マリンチューブ
-タチワキゲート
-ヒオウギゲート
-しぜんほごく
-メダルじむきょく
-ちていいせき
-いわやまのま
-ひょうざんのま
-くろがねのま
-ちかいのはやし
+Oco da Árvore Branca
+Arranha-céu Negro
+Caverna Costeira
+Coração Oco
+Buraco Escondido
+Tubo Marinho
+Virbank Gate
+Cidade Aspertia
+Reserva Natural
+Medal Secretariat
+Ruínas Subterrâneas
+Rocha Chamber
+Gelo Chamber
+Aço Chamber
+Bosques Sagrados
