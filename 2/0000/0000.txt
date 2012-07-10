@@ -118,21 +118,21 @@ Iris
 Drayden
 Normal
 Fogo
-Agua
-Electrico
+Água
+Elétrico
 Grama
 Gelo
 Lutador
 Venenoso
 Terrestre
 Voador
-Psiquico
+Psíquico
 Inseto
 Pedra
 Fantasma
-Dragao
+Dragão
 Sombrio
-Metalico
+Metálico
 0-10 Horas
 10-20 Horas
 20-30 Horas
