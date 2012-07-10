@@ -1,56 +1,56 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
-もちものなし
+\xf000Ă\x0001\x0000 foi selecionado.
+Por favor marque.
+Soltar este Pokémon?
+\xf000Ă\x0001\x0000 foi liberado.
+Tchau,　\xf000Ă\x0001\x0000!
+Sua equipe está lotada!
+Você não tem mais pokemons que possam lutar!
+O que você quer fazer?
+Ir pra qual box?
+Por favor selecione um tema.
+Selecione um papel de parede.
+Continuar com a operação na box?
+A Box está cheia.
+A mochila está cheia.
+Pegou o \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 está sendo seguradp.
+Qual você vai levar?
+Colocar em qual box?
+Nenhum item segurado
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
-がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+Pegar este \xf000ĉ\x0001\x0000?
+Carta não pode ser tirada.
+\xf000ĉ\x0001\x0000 foi selecionado.
+DEscartar \xf000ĉ\x0001\x0000?
+Colocou \xf000ĉ\x0001\x0000 na mochila.
+Pode segurar um item.
+Por favor remova a carta.
+Você não pode libertar o ovo.
+Você não pode libertar um Kyurem fundido.
+\xf000Ă\x0001\x0000 voltou!
+Ele estava preocupado com você?
+Um ovo não pode segurar um item.
+Toque a marca!
+DEPOSITAR POKÉMON
+RETIRAR POKÉMON
+A box está cheia.
+Sua equipe está lotada!
+DEPOSITAR POKÉMON
+RETIRAR POKÉMON
+MOVER POKÉMON
+MOVER ITEMS
+BOX DE BATALHA
+SELECIONE UM POKÉMON DORMINDO
+Carta não pode ser movida!
+Não pode segurar \xf000ĉ\x0001\x0000!
+Tem uma carta!
+Você não tem mais pokemons que possam lutar!
+Carta não pode ser movida!
+Ele não pode segurar a carta aqui.
+Ovos não podem ser selecionados!
+\xf000Ă\x0001\x0000 vai ser dobrado.\xfffeOK?
+Esse pokemon não parece estar\xfffedormindo agora.
+Selecionar outro pokemon?
+Sua Box de Batalha está trancada.\xfffeVocê não pode mover seu pokemon.
+Sua Box de Batalha está trancada.\xfffeItens não podem ser dados ou tirados.
