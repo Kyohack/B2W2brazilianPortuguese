@@ -1,40 +1,40 @@
-ゲームで　つかう　もじは\xfffeひらがな・カタカナに　しますか？\xf000븀\x0000\xfffeそれとも　漢字に　しますか？\xf000븁\x0000
-かな
-漢字
-それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
-それでは　ゲームでは\xfffe漢字も　使います\xf000븁\x0000
-セーブデータを　さくせい　しています\xfffeしばらく　おまちください
-ハーイ！\xf000븁\x0000\xfffeポケットモンスターの　せかいへ\xfffeようこそ！\xf000븁\x0000
-わたしの　なまえは\xfffeアララギと　いいます\xf000븁\x0000\xfffeみんなからは\xfffeポケモンはかせ　と　よばれているわ\xf000븁\x0000
-そう！　この　せかいには\xfffeポケットモンスター\xf000븁\x0000\xfffeちぢめて「ポケモン」とよばれる\xfffeふしぎな　いきものが\xf000븀\x0000\xfffeいたる　ところに　いるの！\xf000븁\x0000
-ふしぎな　ちからを　ひめている\xfffeポケモンは　すがたかたちも\xf000븀\x0000\xfffeくらしている　ばしょも　さまざま\xf000븁\x0000\xfffeそんな　ポケモンたちと\xfffeわたしたち　にんげんは\xf000븀\x0000\xfffeなかよく　くらしているの！\xf000븁\x0000\xfffeいっしょに　いることで\xfffeおたがい　みたされたり\xf000븁\x0000\xfffeちからを　あわせ　たすけあい　\xfffeたいへんな　しごとを　こなしたり\xf000븁\x0000\xfffeなかでも　にんき　なのは\xfffeポケモンどうしを　たたかわせて\xf000븀\x0000\xfffeきずなを　ふかめる　ことね\xf000븁\x0000\xfffeで　わたしは　ポケモンたちを\xfffeけんきゅう　している　ってわけ\xf000븁\x0000
-さて　わたしの　はなしは\xfffeこれぐらいに　して……\xf000븁\x0000\xfffeあなたのことを　おしえてくれるかな\xf000븁\x0000
-あなたは　おとこのこ？\xfffeそれとも　おんなのこ？\xf000븁\x0000
-おとこのこ　なのね？\xf000븁\x0000
-おんなのこ　なのね？\xf000븁\x0000
-おとこのこ
-おんなのこ
-なまえも　しりたいな\xf000븁\x0000\xfffeあなたの　なまえを　おしえて！\xf000븁\x0000
-\xf000Ā\x0001\x0000くん　でいい？\xf000븁\x0000
-\xf000Ā\x0001\x0000さん　であってる？\xf000븁\x0000
-はい
-いいえ
-\xf000Ā\x0001\x0000と　いう　なまえ！\xfffeとても　ステキ　よね！\xf000븁\x0000
-それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
-それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
-かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
-ヒュウ
-デフォ１
-デフォ２
-じぶんできめる
-\xf000Ā\x0001\x0001　ね\xfffeそれで　あっている？\xf000븁\x0000
-こちらの　おとこのこは　チェレン\xf000븁\x0000\xfffeきむずかしい　ところも　あるけれど\xfffeまっすぐな　おとこのこ\xf000븁\x0000
-こちらの　おんなのこは　ベル\xf000븁\x0000\xfffeちょっと　マイペース　だけど\xfffeがんばりやの　おんなのこ\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeこれから　あなたを　たよりにして\xfffeだいじな　だいじな\xf000븀\x0000\xfffeポケモンを　プレゼントします\xf000븁\x0000
-あなたが　パートナーとなる\xfffeポケモンを　えらんだ　そのときから\xf000븁\x0000\xfffeあなただけの\xfffeたびものがたりが　はじまります\xf000븁\x0000\xfffeこの　たびで　あなたは\xfffeかずおおくの　ポケモン\xf000븀\x0000\xfffeいろんな　かんがえの　ひとと\xf000븀\x0000\xfffeであい　ふれあうでしょう！\xf000븁\x0000\xfffeその　さまざまな　であいから\xfffeあなただけの　たいせつな　ものを\xf000븀\x0000\xfffeぜひ　みつけてほしい……\xf000븁\x0000\xfffeそう！　たくさんの　ひとびとや\xfffeポケモンと　ふれあい\xf000븀\x0000\xfffeじぶんじしんを　せいちょう　させる\xf000븁\x0000\xfffeそれが　この　ぼうけんの\xfffeもっとも　おおきな　もくてきです\xf000븁\x0000\xfffeそれでは　いきましょう！\xfffeポケットモンスターの　せかいへ！\xf000븁\x0000
-ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれていますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
-ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+Em que linguagem você gostaria que os\xfffenomes dos Pokémons fossem?\xf000븀\x0000
+Português
+Japonês
+Os nomes dos Pokémons serão\xfffeem Português.\xf000븁\x0000
+Os nomes dos Pokémons serão\xfffeem Japonês.\xf000븁\x0000
+Criando os dados de salvamento.\xfffePor favor aguarde...
+Olá!\xf000븁\x0000\xfffeBem vindo ao mundo dos Pokémons!\xf000븁\x0000
+Meu nome é Professora Juniper.\xfffeTodos me chamam de Professora Pokémon!\xf000븁\x0000
+Correto! Esté mundo é vastamente\xfffehabitado por estas estranhas criaturas\xf000븀\x0000\xfffechamadas Pokémons!\xf000븁\x0000
+Pokémons possuem poderes misteriosos.\xfffeEles vem em muitas formas\xf000븀\x0000\xfffee moram em locais bem diferentes.\xf000븁\x0000\xfffeNós humanos vivemos alegremente com os Pokémons!\xfffeVivendo e trabalhando juntos,\xf000븀\x0000\xfffecomplementamos uns aos outros.\xf000븁\x0000\xfffePodemos nos ajudar a\xfffecompletar tarefas difíceis.\xf000븁\x0000\xfffeColocá-los para batalhar entre si\xfffeé particularmente popular, e isto estreita\xf000븀\x0000\xfffeos laços entre as pessoas e seus Pokémons.\xf000븀\x0000\xfffeE por isso eu pesquiso Pokémons.\xf000븁\x0000
+Bom, está bom sobre mim...\xfffePode me contar mais sobre você?\xf000븁\x0000
+VocÊ é um garoto?\xfffeOu uma garota?\xf000븁\x0000
+Você é uma garoto, certo?\xf000븁\x0000
+Você é uma garota, certo?\xf000븁\x0000
+O que você acha de\xfffe\xf000Ĝ\x0001\x0000?
+Você acha \xf000Ĝ\x0001\x0000\xfffecan \xf000Ĝ\x0001\x0001?
+Gostaria de saber seu nome.\xf000븁\x0000\xfffePor favor me diga.\xf000븁\x0000
+Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
+Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
+SIM
+NÃO
+Então seu nome é \xf000Ā\x0001\x0000.\xfffeQue nome bonito!\xf000븁\x0000
+Bem. vou apresentá-lo aos\xfffeseus dois melhores amigos!\xf000븁\x0000
+Me permita apresentar\xfffeseu rival.\xf000븀\x0000\xfffeEle mora na sua cidade.\xf000븁\x0000
+Agora qual\xfffeera o nome dele mesmo...\xf000븁\x0000
+Hugh
+Default 1
+Default 2
+Qual o nome dele?
+\xf000Ā\x0001\x0001　é\xfffeo nome dele?\xf000븁\x0000
+Esté homem é Cheren.\xf000븁\x0000\xfffeEle pode ser um pouco chato, mas\xfffeé uma pessoa muito honesta.\xf000븁\x0000
+Esta mulher é Bianca.\xf000븁\x0000\xfffeEla é meio lenta,\xfffemas trabalha duro.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeÉ importante que você\xfffecomece a peguar\xf000븀\x0000\xfffenovos Pokémon.\xf000븁\x0000
+Este Pokémon\xfffeserá seu parceiro.\xf000븁\x0000\xfffeApós isto, sua jornada\xfffeirá começar!\xf000븁\x0000\xfffeDurante sua jornada, você encontrará muitos\xfffePokémons e pessoas com diferentes\xf000븀\x0000\xfffepersonalidades pontos de vista!\xf000븁\x0000\xfffeEu realmente espero que encontre\xfffeo que é importante pra você\xf000븀\x0000\xfffeem todas ests viagens...\xf000븁\x0000\xfffeEstá certo! Faça amizade\xfffecom novas pessoas e Pokémons e\xf000븀\x0000\xfffecresça como pessoa!\xf000븁\x0000\xfffeEste é o mais importante objetivo\xfffeda sua jornada!\xf000븁\x0000\xfffeVamos visitar o mundo dos Pokémons!\xf000븁\x0000
+Espere um segundo...!\xfffeEstou fazendo algumas preparações.
+Certo!\xfffeInsto irá resolver!\xf000븁\x0000
+Aviso!\xfffeVocê tem outros dados salvos,\xfffeentão na jornada que está para começar,\xfffevocê não será capaz de salvar.\xfffeEstá bem?
+Começar aventura
+Retornar ao menu
+avançar demo?
