@@ -1,15 +1,15 @@
 －－－－－－－－－－
-つうしんこうかん
-つうしんこうかん
-カントーちほう
-ジョウトちほう
-ホウエンちほう
-シンオウちほう
-とおくはなれたとち
+Ligação de Troca
+Ligação de Troca
+Kanto
+Johto
+Hoenn
+Sinnoh
+Terra Distante
 －－－－－－－－－－
 －－－－－－－－－－
 －－－－－－－－－－
 －－－－－－－－－－
 －－－－－－－－－－
-ハイリンク
-ポケモンＡＲサーチャー
+Entralink
+Pokémon Dream Radar
