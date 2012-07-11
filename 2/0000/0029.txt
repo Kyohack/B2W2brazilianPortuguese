@@ -1,39 +1,39 @@
-Ｘボタン
-ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
+Botão X
+Select
+Botão B
+Use o criador de graffiti
+Quadro congelado
+Sair do modo graffiti
+Mudar tamanho da caneta
+Selecione a cor com o conta-gotas
+Use como uma borracha
+Fechar o criador de graffiti
 スタンプ
-らくがきモード
-ＲＥＣ
-らくがき
-ＩＤ\xf000Ȅ\x0001\x0000
+Modo graffiti
+REC
+graffiti
+ID\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
+Por favor selecione os seus amigo(s).
+CHAMANDO AMIGO(S)
 さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
+Chamando!
+Chamando.
+Chamando..
+Chamando...
+Conectando!
+Conectando.
+Conectando..
+Conectando...
+Procurando os seus amigos!
+Procurando os seus amigos.
+Procurando os seus amigos..
+Procurando os seus amigos...
+Gostaria de para o Xtransceiver?
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
+SIM
+NÃO
 リーダーが　しゅうりょうしたので　\xfffeかいさんします
 あいてが　しゅうりょうしたので　\xfffeかいさんします
 メンバーが　いなくなったので\xfffeしゅうりょうします
@@ -62,9 +62,9 @@
 バルーンキャッチ
 バルーンスマッシュ
 ゲームルール
-ちゅうし
+Cancelar
 \xf000Ȃ\x0001\x0000
-あか
-あお
-き
-みどり
+Vermelho
+Azul
+Amarelo
+Verde
