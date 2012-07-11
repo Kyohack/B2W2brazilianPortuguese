@@ -1,28 +1,28 @@
-せっていを　かえる
-はなしの　はやさ
-せんとうアニメ
-しあいの　ルール
-サウンド
-もじモード
-むせん
-ＩＲの　レポート
-けってい
-やめる
-おそい
-ふつう
-はやい
-みる
-みない
-いれかえ
-かちぬき
-ステレオ
-モノラル
-ひらがな
-かんじ
-オン
-オフ
-かく
-かかない
+OPÇÕES
+VELOCIDADE DO TEXTO
+CENA DE BATALHA
+STILO DE BATALHA
+SOM
+NOMES
+Wi-Fi
+Salvar depois de IR
+CONFIRMAR
+FECHAR
+LENTO
+MEDIO
+RAPIDO
+LIGADO
+DESLIGADO
+PULAR
+MOSTRAR
+STEREO
+MONO
+PORTUGUÊS
+JAPONÊS
+LIGADO
+DESLIGADO
+GUARDAR
+NÃO GUARDAR
 メッセージの　はやさを\xfffe３しゅるいから　えらべます
 せんとうのとき　ポケモンの　わざの\xfffeアニメを　みるかどうか　えらべます
 しょうぶの　ルールを\xfffeえらぶことが　できます
@@ -31,7 +31,7 @@
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-えらんだ　せっていに　かえますか？
-はい
-いいえ
+Gostaria de manter as alterações?
+Sim
+Não
 ダミーメッセージ
