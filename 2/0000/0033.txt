@@ -1,37 +1,37 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
-マルチバトル　ぼしゅうちゅう！
-ミュージカル　ぼしゅうちゅう！
-バトルサブウェイ　ぼしゅうちゅう！
-\xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-さんか　メンバーを　まっています\xfffeＢボタン：やめる
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-\xf000Ā\x0001\x0000から　れんらくあり！\xfffeメンバーに　しますか？
-このメンバーで　よろしいですか？
-マルチバトルを　やめますか？
-ミュージカルを　やめますか？
-バトルサブウェイを　やめますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-それでは　マルチバトルを\xfffeちゅうし　します
-それでは　ミュージカルを\xfffeちゅうし　します
-それでは　バトルサブウェイを\xfffeちゅうし　します
-つごうの　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeマルチバトルを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-そのまま　おまちください
-つごうが　わるくなりました\xfffeマルチバトルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeミュージカルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeバトルサブウェイを　ちゅうし　します\xf000븂\x0001<
+ID \xf000Ȅ\x0001\x0000
+\xf000Ȁ\x0001\x0000 são necessários.
+Até \xf000Ȁ\x0001\x0000 são permitidos.
+Procurando participantes da Batalha Multi!
+Procurando participantes do Musical!
+Procurando participantes da Estação de Batalha!
+\xf000Ā\x0001\x0000\xf000봅\x0001FID: \xf000Ȅ\x0001\x0001
+Aguardando os participantes...\xfffBotão B: Cancelar
+Quando o grupo estiver pronto:\xfffBotão A: Proceder   Botão B: Cancelar
+\xf000Ā\x0001\x0000 contactou você.\xfffeAdicioná-lo ao seu grupo?
+Este grupo está OK?
+Deseja cancelar a Batalha Multi?
+Deseja sair do Musical?
+Deseja sair da Estação de Batalha?
+Se o líder sair, o grupo será\xfffedisfeito. Tudo bem?
+A multi batalha será\xfffecanceleda.
+O musical será\xfffecancelado.
+A estação de Batalha será\xfffecancelada.
+Há um problema\xfffecom este grupo.
+Não há membros.\xfffeBatalha Multi será cancelada.
+Por favor aguarde.\xfffeBotão B: Cancelar
+Por favor aguarde.
+Parece haver algum problema.\xfffeA Batalha Multi será cancelada.\xf000븂\x0001<
+Parece haver algum problema.\xfffeO Musical será cancelado.\xf000븂\x0001<
+Parece haver algum problema.\xfffeA estação de será canceleda.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
-\xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jＩＤ：\xf000Ȅ\x0001\x0002
-ミュージカルをする　ともだちを\xfffeえらんでください
-バトルサブウェイをする　ともだちを\xfffeえらんでください
-メンバーが　そろいました！\xfffeそれでは　こちらへ　どうぞ！
-\xf000Ā\x0001\x0000から　ＮＧとの\xfffeへんじが　きてしまいました……\xf000븂\x0001<
-\xf000Ā\x0001\x0000の　へんじを　まっています\xfffeＢボタン：やめる
-\xf000Ā\x0001\x0000から　ＯＫとの\xfffeへんじが　きました\xf000븂\x0001<
-そのまま　おまちください\xfffeＢボタン：やめる
-メンバーから　ぬけますか？
-つごうが　わるいみたい……\xf000븂\x0001<
+\xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jID: \xf000Ȅ\x0001\x0002
+Escolha o musical que\xfffedeseja participar.
+Escolha a estação de batalha que\xfffedeseja participar.
+Os membros foram encontrados.\xfffePor favor entre na sala.
+\xf000Ā\x0001\x0000 Recusou...\xf000븂\x0001<
+Esperando a resposta de \xf000Ā\x0001\x0000...\xfffeBotão B: Cancelar
+\xf000Ā\x0001\x0000 respondeu, "OK."
+Por favor aguarde.\xfffeBotão B: Cancelar
+Você deseja sair do grupo?
+Parece haver algum problema...\xf000븂\x0001<
