@@ -1,20 +1,20 @@
 ▲
-ずかん
-ポケモン
-バッグ
-じぶん
-レポート
-せってい
-　
-チャット
-　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+POKÉDEX
+POKÉMON
+BOLSA
+RADIO
+GUARDAR
+OPÇÕES　　
+
+CHAT
+
+RETIRE
+Pokédex selecionado.
+Pokémon Status selecionado.
+Bolsa selecionada.
+Cartão de treinador selecionado.
+Guardar selecionado.
+Opções selecionado.
+Guardando agora.
+Jogo \xfffesalvo com sucesso!
+Can't save while communicating.
